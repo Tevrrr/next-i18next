@@ -7,10 +7,5 @@ module.exports = {
     },
     fallbackLng: {
         default: ['en'],
-    },
-    localePath:
-        typeof window === 'undefined'
-            ? require('path').resolve('./public/locales')
-            : '/locales',
-    // nonExplicitSupportedLngs: true,
+    }
 }

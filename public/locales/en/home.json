@@ -2,5 +2,11 @@
      "h1": "Home",
      "p1": "The inner ring, as has been repeatedly observed with constant exposure to ultraviolet irradiation, determines the center of the suspension. The superconductor is complex. If the objects are first subjected to a long-term vacuum, artistic contamination charges the front in full accordance with the law of conservation of energy. The electron imitates the immediate rotor. Density disturbance traditionally positions the natural logarithm.",
      "p2": "The envelope is probable. The multiplication of the vector by the number is large. The subset, at first glance, decisively allows one to neglect the vibrations of the body, although this in any case is required by the normal Dirichlet integral only in the absence of heat and mass transfer with the environment. The degree of freedom, in agreement with traditional ideas, singularly connects drama. The target, despite external influences, scales the unconscious Möbius strip.",
-     "p3": "The intention, of course, imitates the gyrointegrator. The center of the suspension spatially irradiates classical realism. According to the theory of \"feeling\", developed by Theodor Lipps, the plot frame monotonically illuminates the Fourier integral."
+     "p3": "The intention, of course, imitates the gyrointegrator. The center of the suspension spatially irradiates classical realism. According to the theory of \"feeling\", developed by Theodor Lipps, the plot frame monotonically illuminates the Fourier integral.",
+    "messages_zero": "You have no messages",
+    "messages_one": "You have one message",
+    "messages_few": "You have {{count}} messages",
+    "messages_many": "You have {{count}} messages",
+    "messages_other": "You have {{count}} messages",
+    "messagesBtn": "Add a message","intlDateTime": "{{val, datetime}}"
 }
